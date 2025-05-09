@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="512d6c0f-993d-44f7-8457-1859704500e4" name="Changes" comment="Init">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/plots/efficiency.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/plots/evaluations_LS.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/plots/evaluations_RS-RW.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/plots/init_vs_final.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/plots/quality_all.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/plots/quality_no-RS-SA.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/plots/quality_no-RS.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/plots/runtime.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/plots/steps.svg" afterDir="false" />
-    </list>
+    <list default="true" id="512d6c0f-993d-44f7-8457-1859704500e4" name="Changes" comment="Init" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -101,7 +90,7 @@
       <workItem from="1745149106950" duration="919000" />
       <workItem from="1745157913623" duration="2189000" />
       <workItem from="1745433236773" duration="9722000" />
-      <workItem from="1745748692553" duration="1072000" />
+      <workItem from="1745748692553" duration="1133000" />
     </task>
     <task id="LOCAL-00001" summary="Init">
       <created>1745749748986</created>
@@ -110,7 +99,21 @@
       <option name="project" value="LOCAL" />
       <updated>1745749748986</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Init">
+      <created>1745749806043</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1745749806043</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Init">
+      <created>1745749814979</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1745749814979</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
