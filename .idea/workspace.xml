@@ -4,7 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="512d6c0f-993d-44f7-8457-1859704500e4" name="Changes" comment="Init" />
+    <list default="true" id="512d6c0f-993d-44f7-8457-1859704500e4" name="Changes" comment="Init">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/init_final/kroA100/final_greedy.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/init_final/kroA100/final_steepest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/init_final/kroA100/init_greedy.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/init_final/kroA100/init_steepest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/init_final/p654/final_greedy.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/init_final/p654/final_steepest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/init_final/p654/init_greedy.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/init_final/p654/init_steepest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/init_final/rat195/final_greedy.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/init_final/rat195/final_steepest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/init_final/rat195/init_greedy.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/init_final/rat195/init_steepest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/init_final/rat575/final_greedy.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/init_final/rat575/final_steepest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/init_final/rat575/init_greedy.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/init_final/rat575/init_steepest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/init_final/vm1084/final_greedy.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/init_final/vm1084/final_steepest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/init_final/vm1084/init_greedy.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/init_final/vm1084/init_steepest.json" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -91,6 +113,16 @@
       <workItem from="1745157913623" duration="2189000" />
       <workItem from="1745433236773" duration="9722000" />
       <workItem from="1745748692553" duration="1133000" />
+      <workItem from="1746827958868" duration="1209000" />
+      <workItem from="1746985985364" duration="2691000" />
+      <workItem from="1747241520233" duration="829000" />
+      <workItem from="1747425007897" duration="1196000" />
+      <workItem from="1747685360279" duration="1824000" />
+      <workItem from="1747941386230" duration="5000" />
+      <workItem from="1748094060274" duration="2000" />
+      <workItem from="1749581609466" duration="2725000" />
+      <workItem from="1749667680385" duration="167000" />
+      <workItem from="1750268550571" duration="3006000" />
     </task>
     <task id="LOCAL-00001" summary="Init">
       <created>1745749748986</created>
@@ -113,7 +145,14 @@
       <option name="project" value="LOCAL" />
       <updated>1745749814979</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Init">
+      <created>1746829452888</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1746829452888</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
